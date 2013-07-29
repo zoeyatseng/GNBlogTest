@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Transparent">#00000000</color>
+    <color name="TitleBG_Brown">#cd873c</color>
+    <color name="MenuBG_Brown">#d3b289</color>
+    <color name="TagListBG_Brown">#a08564</color>
+    <color name="ParaBG_Brown">#edc6a3</color>
+    <color name="TileWord_Brown">#6a4726</color>
+    
+</resources>
